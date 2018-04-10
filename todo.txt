@@ -1,0 +1,14 @@
+1) mutable keyword causes everything to go wrong
+    Done F
+2) using pycharm to write functions
+    TODO: C
+3) extracting functions to modules - importing them (using pycharm)
+    Finish: C
+4) explicit function signatures
+    ??
+5) Testing (not pytest). a) interpreting error messages (code that makes an error - make them fix it), b) writing test code where you generate input, give it to a function and look at output and saving the test code (will be used later in course). Maybe have a function where you divide by a variable (so div by zero will cause issues).
+    F
+6) Why split functions between files.
+   Why more than one function per file? - introduce the idea of modularity.
+    
+
