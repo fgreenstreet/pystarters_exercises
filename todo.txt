@@ -1,7 +1,7 @@
 1) mutable keyword causes everything to go wrong
     Done F
 2) using pycharm to write functions
-    TODO: C
+    Done C
 4) explicit function signatures
     ??
 5) Testing (not pytest).
