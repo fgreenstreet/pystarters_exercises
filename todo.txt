@@ -14,6 +14,6 @@
 3) extracting functions to modules - importing them (using pycharm)
     Finish: C
 4)  return/yield
-    F
+    Done F
 5) pass function to another function, or assign a function to a variable
    F
